@@ -1,0 +1,16 @@
+node_modules/
+.test-output/
+dist/
+*.asar
+*.asar.*
+*.backup
+backup*/
+runtime.js
+*-verification.json
+verification.json
+test-result.png
+*.log
+.env
+.env.*
+*.local
+package-lock.json
